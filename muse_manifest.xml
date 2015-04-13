@@ -1,0 +1,33 @@
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428964227333">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_a-master.css" crc="424940489" ref="about:contact:index:skill-building"/>
+    <file name="about.css" crc="4053470521" ref="about"/>
+    <file name="contact.css" crc="4053470521" ref="contact"/>
+    <file name="index.css" crc="166279969" ref="index"/>
+    <file name="iefonts_index.css" crc="3861120632" ref="index"/>
+    <file name="skill-building.css" crc="4053470521" ref="skill-building"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:about:skill-building:contact"/>
+    <file name="museutils.js" crc="479751881" ref="index:about:skill-building:contact"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3930024250" ref="index"/>
+    <file name="form_check.php" crc="332337308" ref="index"/>
+    <file name="form_throttle.php" crc="3814272331" ref="index"/>
+    <file name="form_process.php" crc="59041389" ref="index"/>
+    <file name="form-u144.php" crc="4256235673" ref="index"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="index:about:skill-building:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="what-parents-need-to-know-about-changes-in-the-classroom1.jpg" crc="209113343" ref="index"/>
+    <file name="u156-17.png" crc="4032053028" ref="index"/>
+    <file name="u156-17-r.png" crc="510174466" ref="index"/>
+    <file name="u156-17-m.png" crc="3989033115" ref="index"/>
+    <file name="u156-17-fs.png" crc="3815601791" ref="index"/>
+  </folder>
+  <file name="index.html" crc="483887366" mt="1428964206226" redirect="true"/>
+  <file name="about.html" crc="35651981" mt="1428963014324" redirect="true"/>
+  <file name="skill-building.html" crc="3970188081" mt="1428963014324" redirect="true"/>
+  <file name="contact.html" crc="4232190801" mt="1428963014324" redirect="true"/>
+</manifest>
